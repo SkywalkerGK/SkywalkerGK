@@ -1,4 +1,4 @@
-## Hi there 👋
+## Programming Skill... 
 
 Currently working with:
 <p align="left"> 
