@@ -20,7 +20,6 @@ Previously worked with:
 
 </p>
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 <!--
 **SkywalkerGK/SkywalkerGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
